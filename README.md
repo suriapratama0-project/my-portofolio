@@ -84,4 +84,4 @@ Jika Anda tertarik bekerja sama atau memiliki pertanyaan, hubungi saya:
 ---
 
 ## Lisensi
-Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk detail.
+Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk detail.
