@@ -59,4 +59,4 @@ my-portofolio/
 
 ## Tangkapan Layar
 
-<img src="assets/images/home.png" alt="Preview Website" height="auto" width="1000"/>
+![Preview Website](assets/images/home.png)
