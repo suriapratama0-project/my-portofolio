@@ -2,7 +2,7 @@
 
 Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar belakang saya sebagai UI Designer & Full-Stack Developer. Proyek ini berfungsi sebagai ruang digital untuk mendemonstrasikan kemampuan saya dalam desain web, front-end, dan back-end. Situs ini responsif, dioptimalkan untuk tampilan mobile dan desktop, serta memuat bagian-bagian penting untuk mempresentasikan karya, menawarkan layanan, dan melakukan kontak.
 
----
+
 
 ## Daftar Isi
 
