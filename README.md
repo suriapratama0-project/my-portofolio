@@ -90,11 +90,10 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 
 ## Tautan Sosial
 Terhubung dengan saya di:
-- LinkedIn
-- Twitter
-- Instagram
-- Dribbble
-- [teks yang ditampilkan](https://alamat-link.com)
+- [LinkedIn](https://www.linkedin.com/in/suria-pratama-97805434b/)
+- [Twitter](https://x.com/SuriaPratama0)
+- [Instagram](https://www.instagram.com/suria_pratama0/)
+- [Dribbble]
 
 ---
 
