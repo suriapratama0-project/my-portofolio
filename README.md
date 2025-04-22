@@ -60,10 +60,10 @@ my-portofolio/
 ## Tangkapan Layar
 
 ![Preview Website](assets/images/home.png)
-
+---
 ![Preview Website](assets/images/project.png)
-
+---
 ![Preview Website](assets/images/about.png)
-
+---
 ![Preview Website](assets/images/footer.png)
-
+---
