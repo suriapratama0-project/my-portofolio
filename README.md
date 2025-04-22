@@ -58,7 +58,6 @@ my-portofolio/
 ---
 
 ## Tangkapan Layar
----
 ### Halaman Utama
 ---
 ![Preview Website](assets/images/home.png)
