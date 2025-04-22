@@ -94,6 +94,7 @@ Terhubung dengan saya di:
 - Twitter
 - Instagram
 - Dribbble
+- [teks yang ditampilkan](https://alamat-link.com)
 
 ---
 
