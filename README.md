@@ -41,6 +41,7 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 ---
 
 ## Struktur Proyek
+
 ```
 my-portofolio/
 │
@@ -53,6 +54,7 @@ my-portofolio/
 ├── index.html              # File HTML utama (halaman utama website)
 └── README.md               # Dokumentasi proyek
 ```
+
 ---
 
 ## Tangkapan Layar
