@@ -6,7 +6,7 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 
 ## Daftar Isi
 
-- [Fitur](#fitur)  
+- [Fitur](fitur)  
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)  
 - [Struktur Proyek](#struktur-proyek)  
 - [Tangkapan Layar](#tangkapan-layar)  
