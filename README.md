@@ -2,7 +2,7 @@
 
 Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar belakang saya sebagai UI Designer & Full-Stack Developer. Proyek ini berfungsi sebagai ruang digital untuk mendemonstrasikan kemampuan saya dalam desain web, front-end, dan back-end. Situs ini responsif, dioptimalkan untuk tampilan mobile dan desktop, serta memuat bagian-bagian penting untuk mempresentasikan karya, menawarkan layanan, dan melakukan kontak.
 
-
+---
 
 ## Daftar Isi
 
@@ -61,19 +61,22 @@ my-portofolio/
 ### Halaman Utama
 
 ![Preview Website](assets/images/home.png)
----
+
 ### Halaman Project
----
+
 ![Preview Website](assets/images/project.png)
----
+
 ### Halaman About
----
+
 ![Preview Website](assets/images/about.png)
----
+
 ### Halaman Footer
----
+
 ![Preview Website](assets/images/footer.png)
----
 
 ---
 
+Jika Anda tertarik bekerja sama atau memiliki pertanyaan, hubungi saya:
+- Email: suriapratama0job@gmail.com
+- WhatsApp: +62 831-9026-0337
+- Lokasi: Cikarang, Indonesia
