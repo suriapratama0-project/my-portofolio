@@ -41,3 +41,20 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 ---
 
 ## Struktur Proyek
+
+my-portofolio/
+│
+├── assets/
+│   ├── css/                # Berisi file-file CSS untuk styling
+│   ├── font-awesome/       # Berisi file library ikon Font Awesome
+│   ├── images/             # Berisi gambar-gambar yang digunakan di website
+│   └── webfonts/           # Berisi font yang dibutuhkan Font Awesome
+│
+├── index.html              # File HTML utama (halaman utama website)
+└── README.md               # Dokumentasi proyek
+
+---
+
+## Tangkapan Layar
+
+![Preview Website](assets/images/home.png)
