@@ -6,7 +6,7 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 
 ## Daftar Isi
 
-- [Fitur](##fitur)  
+- [Fitur](#fitur)  
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)  
 - [Struktur Proyek](#struktur-proyek)  
 - [Tangkapan Layar](#tangkapan-layar)  
@@ -85,3 +85,20 @@ Jika Anda tertarik bekerja sama atau memiliki pertanyaan, hubungi saya:
 
 ## Lisensi
 Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk detail.
+
+---
+
+## Tautan Sosial
+Terhubung dengan saya di:
+- LinkedIn
+- Twitter
+- Instagram
+- Dribbble
+
+---
+
+## Ucapan Terima Kasih
+- Font Awesome: Ikon yang digunakan di seluruh situs.
+- Figma: Proses desain UI/UX dan wireframe.
+- Inspirasi dari berbagai situs portofolio profesional.
+- Terima kasih untuk semua masukan dan dukungan.
