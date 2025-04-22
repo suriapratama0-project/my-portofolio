@@ -59,23 +59,24 @@ my-portofolio/
 
 ## Tangkapan Layar
 ### Halaman Utama
-
+--
 ![Preview Website](assets/images/home.png)
 
 ### Halaman Project
-
+--
 ![Preview Website](assets/images/project.png)
 
 ### Halaman About
-
+--
 ![Preview Website](assets/images/about.png)
 
 ### Halaman Footer
-
+--
 ![Preview Website](assets/images/footer.png)
 
 ---
 
+## Informasi Kontak
 Jika Anda tertarik bekerja sama atau memiliki pertanyaan, hubungi saya:
 - Email: suriapratama0job@gmail.com
 - WhatsApp: +62 831-9026-0337
