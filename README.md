@@ -11,7 +11,6 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 - [Struktur Proyek](#struktur-proyek)  
 - [Tangkapan Layar](#tangkapan-layar)  
 - [Informasi Kontak](#informasi-kontak)  
-- [Kontribusi](#kontribusi)  
 - [Lisensi](#lisensi)  
 - [Tautan Sosial](#tautan-sosial)  
 - [Ucapan Terima Kasih](#ucapan-terima-kasih)  
@@ -62,15 +61,15 @@ my-portofolio/
 ---
 ![Preview Website](assets/images/home.png)
 
-### Halaman Project
+#### Halaman Project
 ---
 ![Preview Website](assets/images/project.png)
 
-### Halaman About
+#### Halaman About
 ---
 ![Preview Website](assets/images/about.png)
 
-### Halaman Footer
+#### Halaman Footer
 ---
 ![Preview Website](assets/images/footer.png)
 
@@ -81,3 +80,8 @@ Jika Anda tertarik bekerja sama atau memiliki pertanyaan, hubungi saya:
 - Email: suriapratama0job@gmail.com
 - WhatsApp: +62 831-9026-0337
 - Lokasi: Cikarang, Indonesia
+
+---
+
+##Lisensi
+Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk detail.
